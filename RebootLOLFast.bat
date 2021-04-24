@@ -1,4 +1,4 @@
-TITLE Valorant Rebooter
+TITLE LOL Rebooter
 @echoff
 cls
 @echo off
