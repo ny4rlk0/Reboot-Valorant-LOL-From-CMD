@@ -35,6 +35,7 @@ taskkill /IM "VALORANT-Win64-Shipping.exe" /F
 taskkill /IM "VALORANT.exe" /F
 taskkill /IM "UnrealCEFSubProcess.exe" /F
 taskkill /IM "UnrealCEFSubProcess.exe" /F
+start /b "LeagueOfLegends" "C:\Riot Games\Riot Client\RiotClientServices.exe" --launch-product=league_of_legends --launch-patchline=live
 start /b "LeagueOfLegends" "E:\Riot Games\Riot Client\RiotClientServices.exe" --launch-product=league_of_legends --launch-patchline=live
 pause
 ::Code::
